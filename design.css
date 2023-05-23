@@ -1,12 +1,10 @@
 
 body{
     
-    background:url(./assets/background\ 1.jpg);
-    height: 100vh;
-    background-repeat: no-repeat;
-    background-position:bottom; 
-    background-attachment: fixed;
-
+    background: linear-gradient(93deg, #000000, #a235ff);
+    background-size: 400% 400%;
+        height: 140vh;
+    
 
 }
 
@@ -45,6 +43,7 @@ body{
     bottom: 50px;
     color: white;
     font-size: 1.3rem;
+    font-family:'Poppins', sans-serif ;
     padding-bottom: 40px;
     
 }
@@ -397,6 +396,7 @@ footer{
     background-size: 400% 400%;
         height: 140vh;
         
+        
     
     
     }
@@ -405,6 +405,7 @@ footer{
         display: flex;
         justify-content: center;
         align-items:start;
+        margin-top: 200px;
         }
     
     
