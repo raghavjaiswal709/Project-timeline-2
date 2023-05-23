@@ -393,40 +393,14 @@ footer{
 @media (min-width: 250px) and (max-width: 450px){
     body{
         
-        background: linear-gradient(114deg, #5530f5, #000000);
+        background: linear-gradient(93deg, #000000, #a235ff);
     background-size: 400% 400%;
-
-    -webkit-animation: AnimationName 4s ease infinite;
-    -moz-animation: AnimationName 4s ease infinite;
-    -o-animation: AnimationName 4s ease infinite;
-    animation: AnimationName 4s ease infinite;
-}
-
-@-webkit-keyframes AnimationName {
-    0%{background-position:0% 37%}
-    50%{background-position:100% 64%}
-    100%{background-position:0% 37%}
-}
-@-moz-keyframes AnimationName {
-    0%{background-position:0% 37%}
-    50%{background-position:100% 64%}
-    100%{background-position:0% 37%}
-}
-@-o-keyframes AnimationName {
-    0%{background-position:0% 37%}
-    50%{background-position:100% 64%}
-    100%{background-position:0% 37%}
-}
-@keyframes AnimationName {
-    0%{background-position:0% 37%}
-    50%{background-position:100% 64%}
-    100%{background-position:0% 37%}
-       /* height: 100vh;
+        height: 100vh;
         background-repeat: no-repeat;
         background-size: cover;
         background-position:bottom; 
         background-attachment: fixed;
-    */
+    
     
     }
     
